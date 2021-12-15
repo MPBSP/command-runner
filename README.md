@@ -7,8 +7,8 @@ Bash shell script to execute a command in multiple directories.
 
 - Can detect the directories in the current path
 - User can select multiple directories
-- Use can select the command to run or type
-- User parallel processiong to reduce the time
+- User can select the command to run or type
+- Use parallel processiong to reduce the time
 
 
 ## Usage
