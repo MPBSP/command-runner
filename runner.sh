@@ -17,7 +17,7 @@ if [ "" = "$PKG_OK" ]; then
 fi
 
 
-cmd=(dialog --separate-output --checklist "Select options:" 22 76 16)
+cmd=(dialog --separate-output --checklist "Select directories:" 22 76 16)
 dirs=(*/)
 
 for NUM in ${!dirs[@]}; do
